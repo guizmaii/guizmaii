@@ -1,4 +1,4 @@
-### Hi, I'm Jules 👋
+### Hi, I'm Jules Ivanic 👋
 
 Scala / ZIO developer based in Australia 🇦🇺
 
